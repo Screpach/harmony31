@@ -1,5 +1,16 @@
 # Harmonia 31
 
-This repository is currently in **Prompt 01 (planning/research)** state.
+Harmonia 31 is a browser-first web app in active development for 31-EDO / 1/4-comma meantone SATB harmony generation and analysis.
 
-The current PR includes requirements analysis, architecture, data model planning, dependency/license planning, milestone sequencing, and testing/deployment plans only. No production app UI or harmony engine is implemented yet.
+## Prompt 02 status
+This milestone adds a working React + TypeScript + Vite scaffold, one-screen shell layout, lint/test/build setup, Playwright smoke test, and CI workflow.
+
+## Scripts
+- `npm run dev`
+- `npm run lint`
+- `npm run test`
+- `npm run build`
+- `npm run test:e2e`
+
+## Requirements boundary
+Authoritative historical/data/image references remain in `requirements/` and are used as bounded product requirements only.
