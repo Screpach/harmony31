@@ -1,0 +1,9 @@
+:root {
+  --bg: linear-gradient(160deg, #0f1220, #171b2f);
+  --glass: rgba(255,255,255,.14);
+  --glass-border: rgba(255,255,255,.22);
+  --text: #eef2ff;
+  --muted: #c4caea;
+  --accent: #8db4ff;
+  --radius: 16px;
+}
